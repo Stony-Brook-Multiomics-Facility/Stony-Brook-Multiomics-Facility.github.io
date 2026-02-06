@@ -13,11 +13,14 @@ We work with investigators at all stages, from experimental design through data 
 
 ## Team
 
-*[Add team members here]*
+David McKinnon
+Barbara Rosati
+Alejandro Gil-Gomez
 
 ## Location
 
-*[Add building/room if you want]*
+Basic Science Tower Level 5, Rm. 151
+Basic Science Tower Level 6, Rm. 124
 
 ## Contact
 
