@@ -26,7 +26,7 @@ We provide a comprehensive suite of services for the Stony Brook research commun
 
 - [David McKinnon](https://github.com/davidmckinnon)
 - [Alejandro Gil-Gomez](https://github.com/agilgom)
-- [Hannah Lee](https://github.com/agilgom)
+- [Hannah Lee](https://github.com/lee-H1208)
 
 ---
 
