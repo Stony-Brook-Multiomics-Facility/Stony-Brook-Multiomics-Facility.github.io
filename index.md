@@ -22,6 +22,12 @@ We provide a comprehensive suite of services for the Stony Brook research commun
 - [Tutorials](/tutorials)
 - [Contact](/contact)
 
+## Team
+
+- [David McKinnon](https://github.com/davidmckinnon)
+- [Alejandro Gil-Gomez](https://github.com/agilgom)
+- [Hannah Lee](https://github.com/agilgom)
+
 ---
 
 *Questions? Reach us at [barbara.rosati.1@stonybrook.edu](mailto:barbara.rosati.1@stonybrook.edu)*
